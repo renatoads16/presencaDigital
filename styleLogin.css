@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+}
+.svg {
+    align-items: center;
+}
+.form-container {
+    max-width: 400px;
+    padding: 1rem;
+}
